@@ -4,3 +4,14 @@
 	margin: 0;
 	font-family: "Roboto Mono", monospace;
 }
+
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+div.ui.container{
+	display: flex;
+	justify-content: center;
+}
